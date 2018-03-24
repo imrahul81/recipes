@@ -1,0 +1,6 @@
+ingredients
+	- maggi
+	- nothing else
+method
+	heat some water and once it starts boiling add maggi into it. Cook for
+2 minutes. Just eat then.
